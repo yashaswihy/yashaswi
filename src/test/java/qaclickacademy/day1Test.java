@@ -9,6 +9,7 @@ public class day1Test {
 	public void demo()
 	{
 		System.out.println("hello");
+		System.out.println("updated for git");
 	}
 	
 	@Test
